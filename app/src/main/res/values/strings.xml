@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PROYECTOFINALYADIRA</string>
+    <string name="proyecto">TECNOLOGICO</string>
+    <string name="hmatricula">Ingrese su Matricula</string>
+    <string name="nombre">Ingrese su Nombre</string>
+    <string name="correo">Ingrese su Correo</string>
+    <string name="calificacionfinal">Calificacion Final</string>
+    <string name="bgrabar">GRABAR</string>
+    <string name="dnombre">Nombre</string>
+    <string name="bmatricula">MATRICULA</string>
+    <string name="bnombre">nombre</string>
+    <string name="anombre">NOMBRE</string>
+    <string name="bcorreo">CORREO</string>
+    <string name="bcalificacion">CALIFICACION</string>
+    <string name="bgrabare">Grabar</string>
+    <string name="yadira">yadira</string>
+    <string name="alma">alma</string>
+    <string name="salzar">salzar</string>
+</resources>
